@@ -1,0 +1,3 @@
+B:/KPI/OP/simple file/cmake-build-debug/CMakeFiles/simple_file.dir
+B:/KPI/OP/simple file/cmake-build-debug/CMakeFiles/edit_cache.dir
+B:/KPI/OP/simple file/cmake-build-debug/CMakeFiles/rebuild_cache.dir
